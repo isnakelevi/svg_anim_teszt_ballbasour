@@ -1,0 +1,18 @@
+<svg id="kor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.96 48.96">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #ff0202;
+                stroke: #000;
+                stroke-miterlimit: 10;
+                stroke-width: 0.96px;
+            }
+            .cls-2 {
+                fill: #5a00ec;
+            }
+        </style>
+    </defs>
+    <title>svg</title>
+    <circle id="kor-2" data-name="kor" class="cls-1" cx="24.48" cy="24.48" r="24"/>
+    <rect id="negyzet-2" data-name="negyzet" class="cls-2" x="10.55" y="10.55" width="27.86" height="27.86"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="kor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #ff0202;
+            }
+            .cls-2 {
+                fill: #1700e3;
+            }
+        </style>
+    </defs>
+    <title>1</title>
+    <path class="cls-1" d="M25,49.5A24.5,24.5,0,1,1,49.5,25,24.53,24.53,0,0,1,25,49.5Z"/>
+    <path d="M25,1A24,24,0,1,1,1,25,24,24,0,0,1,25,1m0-1A25,25,0,1,0,50,25,25,25,0,0,0,25,0h0Z"/>
+    <rect id="negyzet" class="cls-2" x="13.3" y="13.3" width="23.41" height="23.41"/>
+</svg>
